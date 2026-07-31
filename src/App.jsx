@@ -25,9 +25,9 @@ function App() {
           <button onClick={()=> setColor('aqua')} className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
           style={{backgroundColor: 'aqua'}}
           >Aqua</button>
-          <button onClick={()=> setColor('aqua')} className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
-          style={{backgroundColor: 'aqua'}}
-          >Aqua</button>
+          <button onClick={()=> setColor('black')} className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
+          style={{backgroundColor: 'black'}}
+          >Black</button>
         </div>
         <div className="fixed flex flex-wrap justify-center bottom-1 inset-x-0 px-2">
           <div className="shadow-lg bg-black px-3 py-2 rounded-3xl">
